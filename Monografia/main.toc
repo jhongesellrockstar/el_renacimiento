@@ -1,0 +1,47 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Introducción}{1}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Humanismo y relectura de la Antigüedad}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Humanismo cívico y virtud republicana}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Educación, retórica y virtud moral}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Filología, traducción y crítica textual}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Circulación de textos y sociabilidad letrada}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Geografías múltiples del humanismo}{4}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Humanismo, género y esfera doméstica}{5}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Humanismo artístico y materialidad del saber}{5}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Religión, crítica y renovación espiritual}{6}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Humanismo y experiencia urbana}{6}{section.1.9}%
+\contentsline {section}{\numberline {1.10}Dimensión económica y redes de patronazgo}{6}{section.1.10}%
+\contentsline {section}{\numberline {1.11}Humanismo y prácticas de lectura}{7}{section.1.11}%
+\contentsline {section}{\numberline {1.12}Persistencias y legados}{7}{section.1.12}%
+\contentsline {section}{\numberline {1.13}Una relectura permanente}{8}{section.1.13}%
+\contentsline {chapter}{\numberline {2}Artes visuales y construcción de identidad}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Mecenazgo, política y diplomacia visual}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Taller, materialidad y circulación técnica}{11}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Retrato, cuerpo y afectos}{11}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Paisaje, narrativa y experiencia del espectador}{11}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Grabado, reproducción y públicos ampliados}{12}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Devoción, ritual y arte efímero}{12}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Ciencia, salud y control social}{14}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Universidades, anatomía pública y cultura material}{14}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Imprenta, reglamentos y estandarización}{15}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Astronomía, astrología y gobierno de poblaciones}{16}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Botánica, farmacia y economía imperial}{16}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Hospitales, moral y regulación de cuerpos}{16}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Libro, imprenta y circulación de ideas}{18}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Tecnología y organización del taller}{18}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Formatos, tirajes y economía del papel}{18}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Redes de distribución y ferias del libro}{19}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Lectores, alfabetización y prácticas de uso}{19}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Imprenta, reforma religiosa y controversia}{20}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Imagen impresa, grabado y educación visual}{20}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Bibliotecas, coleccionismo y gobierno del saber}{20}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Autoría, reputación y derechos de impresión}{21}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Imprenta y ciencia en formación}{22}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Persistencias, oralidad y cultura popular}{22}{section.4.10}%
+\contentsline {chapter}{\numberline {5}Género, sexualidad y representación}{23}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Masculinidades y homoerotismo}{24}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Cuerpos femeninos y agencia}{24}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Salud, sexualidad y política del cuerpo}{25}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Espacios de sociabilidad y performatividad}{25}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Conclusión}{26}{section.5.5}%
+\contentsline {chapter}{Conclusiones}{27}{chapter*.8}%
