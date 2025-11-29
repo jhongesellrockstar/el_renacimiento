@@ -1,0 +1,27 @@
+# Lista de imágenes a extraer de las fuentes bibliográficas (libros en ./libros_descargados)
+# Guardar cada recorte en la ruta indicada para integrarlo luego en LaTeX.
+
+1) Autorretrato de artista con herramientas de taller
+   - Fuente: "Joanna Woods-Marsden - Renaissance Self-Portraiture_ The Visual Construction of Identity and the Social Status of the Artist (1998, Yale University Press) - libgen.li.pdf"
+   - Búsqueda sugerida: capítulo sobre autorretratos y estatus social; páginas con autorretratos con caballete o herramientas.
+   - Guardar recorte en: Monografia/FIGURES/autorretrato_woods_marsden.png
+
+2) Copistas trabajando sobre manuscritos clásicos
+   - Fuente: "[Streams of History Book 6] Ellwood W. Kemp - Streams of History_ The Renaissance and Reformation (2008, Yesterday's Classics) - libgen.li.epub"
+   - Búsqueda sugerida: secciones ilustradas sobre scriptoria, copistas o producción manuscrita.
+   - Guardar recorte en: Monografia/FIGURES/humanistas_manoscritos.png
+
+3) Grabado médico sobre tratamientos de la sífilis
+   - Fuente: "Jon Arrizabalaga - The great pox _ the French disease in Renaissance Europe (1997, Yale University Press) - libgen.li.pdf"
+   - Búsqueda sugerida: capítulos iniciales con ilustraciones de tratamientos o diagramas de síntomas.
+   - Guardar recorte en: Monografia/FIGURES/tratado_medico_gran_viruela.png
+
+4) Ganímedes ascendiendo al Olimpo
+   - Fuente: "Saslow, James M. - Ganymede in the Renaissance. Homosexuality in Art and Society (1986, Yale University Press) - libgen.li.pdf"
+   - Búsqueda sugerida: reproducciones de pinturas o grabados con Ganímedes llevado por el águila de Zeus.
+   - Guardar recorte en: Monografia/FIGURES/ganymede_ilustracion.png
+
+5) Prensa tipográfica y cajas de tipos móviles
+   - Fuente: "Pettegree, Andrew - The Book in the Renaissance (2010, Yale University Press) - libgen.li.epub"
+   - Búsqueda sugerida: capítulos sobre talleres de impresión, ilustraciones de prensas o tipos móviles.
+   - Guardar recorte en: Monografia/FIGURES/prensa_gutenberg.png
