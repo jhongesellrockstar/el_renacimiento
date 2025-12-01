@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.29)  29 NOV 2025 18:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.29)  29 NOV 2025 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1100,21 +1100,26 @@ Package caption Info: End \AtBeginDocument code.
 
 {C:/Users/jhonv/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/jhon
 v/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}]
+<FIGURES/Escudo_unac.png, id=194, 387.29308pt x 479.94693pt>
+File: FIGURES/Escudo_unac.png Graphic file (type png)
+<use FIGURES/Escudo_unac.png>
+Package pdftex.def Info: FIGURES/Escudo_unac.png  used on input line 5.
+(pdftex.def)             Requested size: 123.42937pt x 152.95634pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 4.
+(Font)              scaled to size 17.28pt on input line 6.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 24.88pt on input line 5.
+(Font)              scaled to size 24.88pt on input line 7.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 24.88pt on input line 5.
+(Font)              scaled to size 24.88pt on input line 7.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 8.
+(Font)              scaled to size 12.0pt on input line 10.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.21 \end{titlepage}
-                     [1]) (main.toc
+l.23 \end{titlepage}
+                     [1 <./FIGURES/Escudo_unac.png>]) (main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
@@ -1213,87 +1218,87 @@ LaTeX Warning: Citation `AmesLewis2000' undefined on input line 3.
 ]
 Cap\'{\i }tulo 1.
 
-LaTeX Warning: Citation `Kemp2008' undefined on input line 2.
+LaTeX Warning: Citation `Kemp2008' undefined on input line 3.
 
 
-LaTeX Warning: Citation `Elmer2000' undefined on input line 2.
+LaTeX Warning: Citation `Elmer2000' undefined on input line 3.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 4.
+(Font)              scaled to size 17.28pt on input line 5.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 7.
+(Font)              scaled to size 12.0pt on input line 8.
 [2
 
 ] [3]
 
-LaTeX Warning: Citation `Popov2015' undefined on input line 27.
+LaTeX Warning: Citation `Popov2015' undefined on input line 28.
 
 [4]
 
-LaTeX Warning: Citation `Wind1958' undefined on input line 41.
+LaTeX Warning: Citation `Wind1958' undefined on input line 42.
 
 [5] [6]
-<FIGURES/humanistas_manoscritos.png, id=309, 376.40625pt x 425.33907pt>
+<FIGURES/humanistas_manoscritos.png, id=312, 376.40625pt x 425.33907pt>
 File: FIGURES/humanistas_manoscritos.png Graphic file (type png)
 <use FIGURES/humanistas_manoscritos.png>
 Package pdftex.def Info: FIGURES/humanistas_manoscritos.png  used on input line
- 71.
+ 72.
 (pdftex.def)             Requested size: 308.57028pt x 348.7089pt.
  [7]) (tex/cap_artes.tex [8 <./FIGURES/humanistas_manoscritos.png>]
 [9]
 Cap\'{\i }tulo 2.
 
-LaTeX Warning: Citation `WoodsMarsden1998' undefined on input line 10.
+LaTeX Warning: Citation `WoodsMarsden1998' undefined on input line 11.
 
 [10
 
 ]
 
-LaTeX Warning: Citation `Bomford1989' undefined on input line 12.
+LaTeX Warning: Citation `Bomford1989' undefined on input line 13.
 
 
-LaTeX Warning: Citation `Panofsky1995' undefined on input line 20.
+LaTeX Warning: Citation `Panofsky1995' undefined on input line 21.
 
 [11]
-<FIGURES/autorretrato_woods_marsden.png, id=348, 563.10374pt x 402.00188pt>
+<FIGURES/autorretrato_woods_marsden.png, id=350, 563.10374pt x 402.00188pt>
 File: FIGURES/autorretrato_woods_marsden.png Graphic file (type png)
 <use FIGURES/autorretrato_woods_marsden.png>
 Package pdftex.def Info: FIGURES/autorretrato_woods_marsden.png  used on input 
-line 37.
+line 38.
 (pdftex.def)             Requested size: 287.99767pt x 205.60097pt.
  [12]) (tex/cap_ciencia.tex [13 <./FIGURES/autorretrato_woods_marsden.png>]
 Cap\'{\i }tulo 3.
 
-LaTeX Warning: Citation `Arrizabalaga1997' undefined on input line 2.
+LaTeX Warning: Citation `Arrizabalaga1997' undefined on input line 3.
 
 
-LaTeX Warning: Citation `Park2006' undefined on input line 5.
+LaTeX Warning: Citation `Park2006' undefined on input line 6.
 
 
-LaTeX Warning: Citation `Vesalius1543' undefined on input line 5.
+LaTeX Warning: Citation `Vesalius1543' undefined on input line 6.
 
 
-LaTeX Warning: Citation `Siraisi1990' undefined on input line 7.
+LaTeX Warning: Citation `Siraisi1990' undefined on input line 8.
 
 [14
 
 ]
 
-LaTeX Warning: Citation `Dear2006' undefined on input line 12.
+LaTeX Warning: Citation `Dear2006' undefined on input line 13.
 
-<FIGURES/tratado_medico_gran_viruela.png, id=382, 409.53pt x 393.72093pt>
+<FIGURES/tratado_medico_gran_viruela.png, id=384, 409.53pt x 393.72093pt>
 File: FIGURES/tratado_medico_gran_viruela.png Graphic file (type png)
 <use FIGURES/tratado_medico_gran_viruela.png>
 Package pdftex.def Info: FIGURES/tratado_medico_gran_viruela.png  used on input
- line 17.
+ line 18.
 (pdftex.def)             Requested size: 287.99767pt x 276.89442pt.
 [15 <./FIGURES/tratado_medico_gran_viruela.png>]
 
-LaTeX Warning: Citation `Schiebinger2004' undefined on input line 28.
+LaTeX Warning: Citation `Schiebinger2004' undefined on input line 29.
 
 [16]
 
-LaTeX Warning: Citation `Saslow1986' undefined on input line 35.
+LaTeX Warning: Citation `Saslow1986' undefined on input line 36.
 
 ) (tex/cap_imprenta.tex [17]
 Cap\'{\i }tulo 4.
@@ -1301,20 +1306,20 @@ Cap\'{\i }tulo 4.
 
 ] [19]
 
-LaTeX Warning: Citation `Bergin2015' undefined on input line 28.
+LaTeX Warning: Citation `Bergin2015' undefined on input line 29.
 
 [20]
-<FIGURES/prensa_gutenberg.png, id=440, 333.49594pt x 472.01344pt>
+<FIGURES/prensa_gutenberg.png, id=442, 333.49594pt x 472.01344pt>
 File: FIGURES/prensa_gutenberg.png Graphic file (type png)
 <use FIGURES/prensa_gutenberg.png>
-Package pdftex.def Info: FIGURES/prensa_gutenberg.png  used on input line 43.
+Package pdftex.def Info: FIGURES/prensa_gutenberg.png  used on input line 44.
 (pdftex.def)             Requested size: 308.57028pt x 436.76404pt.
  [21 <./FIGURES/prensa_gutenberg.png>]) (tex/cap_genero.tex [22]
 Cap\'{\i }tulo 5.
-<FIGURES/ganymede_ilustracion.png, id=462, 478.03593pt x 461.47406pt>
+<FIGURES/ganymede_ilustracion.png, id=464, 478.03593pt x 461.47406pt>
 File: FIGURES/ganymede_ilustracion.png Graphic file (type png)
 <use FIGURES/ganymede_ilustracion.png>
-Package pdftex.def Info: FIGURES/ganymede_ilustracion.png  used on input line 7
+Package pdftex.def Info: FIGURES/ganymede_ilustracion.png  used on input line 8
 .
 (pdftex.def)             Requested size: 287.99767pt x 278.02025pt.
 [23
@@ -1336,17 +1341,14 @@ L3 programming layer <2020/03/25>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: FFB6E90DEE66DFA6A31563647E53860E;11436.
  ) 
 Here is how much of TeX's memory you used:
- 18177 strings out of 474485
- 284350 string characters out of 5743733
+ 18164 strings out of 474485
+ 283795 string characters out of 5743733
  1937542 words of memory out of 5000000
- 40074 multiletter control sequences out of 15000+600000
+ 40061 multiletter control sequences out of 15000+600000
  596604 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,6n,117p,807b,862s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1423,9 +1425,9 @@ t exist, replaced by a fixed one
 mb.pfb><C:/Users/jhonv/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/z
 tmr.pfb><C:/Users/jhonv/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/
 ztmri.pfb>
-Output written on main.pdf (31 pages, 3180047 bytes).
+Output written on main.pdf (31 pages, 3216538 bytes).
 PDF statistics:
- 588 PDF objects out of 1000 (max. 8388607)
+ 590 PDF objects out of 1000 (max. 8388607)
  100 named destinations out of 1000 (max. 500000)
- 394 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 399 words of extra memory for PDF output out of 10000 (max. 10000000)
 
